@@ -3,10 +3,13 @@ VigroCX, which is a Canadian Crypto Exchange, does not offer Trailing Stop Limit
 
 This program has the the following Python3 depedancies:
 
-- json          - hashlib
-- requests      - mysql.connector
-- datetime      - pytz
+- json
+- requests
+- datetime
 - time
+- hashlib
+- mysql.connector
+- pytz
 
 You will need to setup your VigroCX API. You need to
 contact them to allow. You will also need to setup a
