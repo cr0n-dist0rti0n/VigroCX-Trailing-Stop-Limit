@@ -11,6 +11,8 @@ This program has the the following Python3 depedancies:
 - mysql.connector
 - pytz
 
+It also requires the setup of a MySQL Database.
+
 You will need to setup your VigroCX API. You need to
 contact them to allow. You will also need to setup a
 MySQL server to log the data. This program executes
