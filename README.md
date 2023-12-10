@@ -22,3 +22,5 @@ data of coins choosen.
 Impotant, choose the tickers you want to have in the
 list variable "tickers". Case doesn't matter. Just the
 ticker thats on VigroCX.
+
+I take no responsibility for any faulty or unintended sales / investments. Use at your own risk. I've only tested this on Linux based system. Not sure how it will run in MS Windows.
